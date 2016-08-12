@@ -5,6 +5,7 @@ A fractal generation tool to create beautiful, artistic pictures.
 ## Why the name *Fraken* ?
 
 Fraken = Fractal + Kraken
+
 *Release the Krakeeen!*
 
 ###**TODO**
